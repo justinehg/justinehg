@@ -21,14 +21,11 @@
   <br>
 📫 Have a project in mind? <a href="mailto:justinehoang21@gmail.com" target="_blank" rel="noopener">Let's Chat!</a>
   <br>
-
-## 💪 Programming Languages and Tools
+<br>
+<h2 align="center">Languages and Tools:</h2>
 <div align="center">
 <table>
 	<tr>
-		<td valign="top" width="45%">
-			<h3 align="center" color="white">Front End</h3>
-			<br>
 			<div align="center" >
 				&nbsp
 				<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -38,16 +35,13 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="70"/></a> 
 				&nbsp&nbsp&nbsp
 				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" height="50"/></a>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" height="50"/></a>
 				&nbsp&nbsp&nbsp
 				<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="REACT" height="60"/></a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a
+<!--         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a -->
 			</div>
 		</td>		
-		<td valign="top" width="45%">
-			<h3 align="center" color="white">Back End</h3>
-			<br>
 			 <div align="center">
 				 &nbsp
 			<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -56,9 +50,6 @@
 			<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NODEJS"  height="70"/></a> 
 				 &nbsp&nbsp&nbsp
-			<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT"  height="50"/></a>
-				  &nbsp&nbsp&nbsp
 				 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://icongr.am/devicon/git-original.svg?size=128&color=8a8585" alt="GIT"  height="50"/></a>
 				<br>
@@ -68,7 +59,6 @@
 	</tr>
 </table>
 </div>
-</br>
 </br>
 
 ## 📈 GitHub Stats
