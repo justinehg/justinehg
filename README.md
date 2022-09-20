@@ -63,7 +63,4 @@
 
 ## 📈 GitHub Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=justinehg&show_icons=true&locale=en" alt="justinehg" /></p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=justinehg&theme=github-dark-blue"(https://git.io/streak-stats)
 </div>
