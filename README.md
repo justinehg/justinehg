@@ -11,13 +11,13 @@
 </div>
 
 <p align="center"> Hello there 👋 I'm Justine, a Software Engineer based in Houston, Texas. 
-	<br>🌱 Currently sharpening my skills in <strong>JavaScript</strong> & building <strong>MERN</strong> stack applications at 100Devs. 🌱 </p>
+	<br>🌱 Currently focusing on building <strong>MERN</strong> stack applications. 🌱 </p>
 </div>
 
 
 <br>
 <p align="center">
-⚡ Currently accepting new clients and open to contribute to Open Source projects ⚡
+⚡ Accepting new clients and open to contributing to Open Source projects ⚡
   <br>
 📫 Have a project in mind? <a href="mailto:justinehoang21@gmail.com" target="_blank" rel="noopener">Let's Chat!</a>
   <br>
