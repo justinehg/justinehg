@@ -60,7 +60,3 @@
 </table>
 </div>
 </br>
-
-## 📈 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=justinehg&show_icons=true&locale=en" alt="justinehg" /></p>
-</div>
