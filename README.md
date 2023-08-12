@@ -5,7 +5,6 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=for-the-badge&logo=appveyor&logo=aboutdotme&logoColor=black)](https://justinehoang.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-hoang/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justine_hng)
 [![AgnelCo](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=white)](https://angel.co/u/justine-hoang)
 
 </div>
