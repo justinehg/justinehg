@@ -9,7 +9,7 @@
 
 </div>
 
-<p align="center"> Hello there 👋 I'm Justine, a Software Engineer based in Houston, Texas. 
+<p align="center"> Hello there 👋 I'm Justine, a Software Developer based in Houston, Texas. 
 	<br>🌱 Currently focusing on building <strong>MERN</strong> stack applications. 🌱 </p>
 </div>
 
